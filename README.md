@@ -36,19 +36,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syber-bit12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syber-bit12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 📫 Contato
 📧 E-mail: eduardo.carlos2@escolar.ifrn.edu.br
