@@ -51,6 +51,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
 ---
 
 ## 📫 Contato
-📧 E-mail: seuemail@email.com
-💼 LinkedIn: https://linkedin.com/in/seuusuario
+📧 E-mail: eduardo.carlos2@escolar.ifrn.edu.br
+💼 LinkedIn: https://github.com/syber-bit12
 🌐 Portfólio: Em desenvolvimento
